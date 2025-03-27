@@ -15,12 +15,12 @@ Após a entrega dos <a href="https://github.com/Adenilson-silva/wastewater-goias
 Em busca de uma solução, o governador soliciou que a Secretaria de Meio Ambiente do Estado desenvolvesse uma metodologia que permitisse definir quais os munícipios teriam prioridade no recebimento desses recursos. Vale destacar que os recursos seriam distribuídos em dois lotes: o primeiro voltado para novas obras e o segundo destinado à melhoria da infraestrutura existente.
 
 
-Ademais, foi solicitado que a secretaria desenvolvesse alguma ferramenta que permitisse a consulta da atual situação de cada município.
+Ademais, foi solicitado que a secretaria desenvolvesse alguma ferramenta que permitisse a consulta situacional e histórica de cada município.
 
 
 #### Definição das responsabilidades
 Ao tomar ciência da demanda do governador, o secretário estadual de meio ambiente decidiu novamente utilizar a  <a href="https://www.gov.br/transportes/pt-br/assuntos/portal-da-estrategia/artigos-gestao-estrategica/como-implementar-a-matriz-raci" target="_blank">Matriz RACI</a> para organizar a gestão de elaboração do projeto, definindo assim os papéis e responsabilidades das partes envolvidas. Ademais, o secretário optou por utilizar o dados coletados no projeto anterior para embasar o desenvolvimento da metodologia de prioriazação. A seguir, é apresentada a matriz de inicio do projeto:
-| Etapa  | Diagnóstico geral da situação do esgotamento sanitário em Goiás |
+| Etapa  | Detalhamento |
 |-----------|-----------------------------------------------------------------------------------|
 | **_Responsible_** | Será criado um Grupo de Trabalho (GT) composto por dois (2) analistas ambientais da Secretaria de Meio Ambiente do Estado, responsáveis pelo desenvolvimento do projeto. Este projeto será desenvolvindo em conjunto com uma empresa contratada por meio de licitação, especializada em consultoria de ciência de dados. O objetivo principal é transformar os dados coletados em informações concretas.
 | **_Accountable_**  | Secretário de Meio Ambiente do Estado de Goiás. |
@@ -34,7 +34,7 @@ Após definir as responsabilidades dos envolvidos, o secretario, juntamente com 
 |--------------|-----------|-------------|-------|-------------------|
 | **_Plan_**     | Planejamento e definição de metas e objetivos, além da definição da metodologia de priorização. | Analistas Ambientais | 25 dias | - |
 | **_Analyse_**       | Processo de ETL (_Extract, transform, load_) dos dados.  | Empresa de consultoria. | 25 dias | Durante esta etapa, poderá ser necessária a solicitação de esclarecimentos pela empresa de consultoria. |
-| **_Construct_**    |  <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/D%20-%20Cria%C3%A7%C3%A3o%20de%20Modelos%20de%20Machine%20Learning.ipynb" target="_blank"> Desenvolvimento de ferramenta que permita a consulta da atual situação de cada município</a>. | Empresa de consultoria. | 20 dias | - |
+| **_Construct_**    |  <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/D%20-%20Cria%C3%A7%C3%A3o%20de%20Modelos%20de%20Machine%20Learning.ipynb" target="_blank"> Desenvolvimento de ferramenta que permita a consulta situacional e histórica de cada município</a>. | Empresa de consultoria. | 20 dias | - |
 | **_Execute_**      | <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/E%20-%20Conclus%C3%A3o.md" target="_blank">Entrega dos resultados</a>. | Analistas ambientais e empresa de consultoria. | 10 dias | - |
 
 #### Empresa de Consultoria ganhadora da licitação
