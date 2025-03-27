@@ -1,5 +1,5 @@
 # Análise, Engenharia e Visualização de Dados
-##  Uso de dados para otimizar a alocação de recursos no saneamento básico em Goiás
+##  Uso de dados para otimizar a alocação de recursos destinados ao saneamento básico de Goiás
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1a98lYwnDTbwElQLKGG5bvBI0VYLEdx-x" width="500">
 </div>
