@@ -15,7 +15,7 @@ Após a entrega dos resultados da <a href="https://github.com/Adenilson-silva/wa
 Em busca de uma solução, o governador soliciou que a Secretaria de Meio Ambiente do Estado desenvolvesse uma metodologia que permitisse definir quais os munícipios teriam prioridade no recebimento desses recursos. Vale destacar que os recursos seriam distribuídos em dois lotes: o primeiro voltado para novas obras e o segundo destinado à melhoria da infraestrutura existente.
 
 
-Ademais, foi solicitada que a secretaria desenvolvesse alguma ferramenta que permitisse a consulta do atual situação de cada município.
+Ademais, foi solicitado que a secretaria desenvolvesse alguma ferramenta que permitisse a consulta do atual situação de cada município.
 
 
 #### Definição das responsabilidades
