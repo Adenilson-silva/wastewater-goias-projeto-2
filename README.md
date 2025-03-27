@@ -7,10 +7,16 @@
 ## Sobre este Projeto 
 Os dados utilizados neste projeto são oficiais; no entanto, o cenário descrito na contextualização é fictício.
 
-Este projeto é uma continuação do projeto desenvolvido <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/tree/main" target="_blank"> Aqui <a>.
+Este projeto é uma continuação do projeto desenvolvido <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/tree/main" target="_blank"> Aqui </a>.
 
 ## Contextualização
-Após a entrega dos resultado da <a href="https://www.gov.br/transportes/pt-br/assuntos/portal-da-estrategia/artigos-gestao-estrategica/como-implementar-a-matriz-raci" target="_blank"> Análise Descritiva e Preditiva da Gestão de Esgotos em Goiás <
+Após a entrega dos resultados da <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/tree/main" target="_blank" target="_blank"> Análise Descritiva e Preditiva da Gestão de Esgotos em Goiás </a> ao Governador, Prefeitos e População, o governo decidiu que o estado destinaria recursos às prefeituras para melhoria dos sistemas de esgotamento sanitário dos municípios. Entretanto, o governo sabia que não seria possível destinar recursos à todos os munícipios imediatamente, pois isso dependeria do orçamento do estado. 
+
+Em busca de uma solução, o governador soliciou que a Secretaria de Meio Ambiente do Estado desenvolvesse uma metodologia que permitisse definir quais os munícipios teriam prioridade no recebimento desses recursos. Vale destacar que os recursos seriam distribuídos em dois lotes: o primeiro voltado para novas obras e o segundo destinado à melhoria da infraestrutura existente.
+
+
+Ademais, foi solicitada que a secretaria desenvolvesse alguma ferramenta que permitisse a consulta do atual situação de cada município.
+
 
 #### Definição das responsabilidades
 Ao tomar ciência da solicitação do governador, o secretário estadual de meio ambiente decidiu utilizar a  <a href="https://www.gov.br/transportes/pt-br/assuntos/portal-da-estrategia/artigos-gestao-estrategica/como-implementar-a-matriz-raci" target="_blank">Matriz RACI</a> para organizar a gestão de elaboração do estudo, definindo assim os papéis e responsabilidades das partes envolvidas. A seguir, é apresentada a matriz de inicio do projeto:
