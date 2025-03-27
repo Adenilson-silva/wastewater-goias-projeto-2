@@ -1,14 +1,16 @@
 # Análise, Engenharia e Visualização de Dados
-## ...
+##  Uso de dados para otimizar a alocação de recursos no saneamento básico em Goiás
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1D5C_5RqZmb1Pc-YGTtIERKbCMFrPZ7fU" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1a98lYwnDTbwElQLKGG5bvBI0VYLEdx-x" width="500">
 </div>
 
 ## Sobre este Projeto 
 Os dados utilizados neste projeto são oficiais; no entanto, o cenário descrito na contextualização é fictício.
 
+Este projeto é uma continuação do projeto desenvolvido <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/tree/main" target="_blank"> Aqui <a>.
+
 ## Contextualização
-...
+Após a entrega dos resultado da <a href="https://www.gov.br/transportes/pt-br/assuntos/portal-da-estrategia/artigos-gestao-estrategica/como-implementar-a-matriz-raci" target="_blank"> Análise Descritiva e Preditiva da Gestão de Esgotos em Goiás <
 
 #### Definição das responsabilidades
 Ao tomar ciência da solicitação do governador, o secretário estadual de meio ambiente decidiu utilizar a  <a href="https://www.gov.br/transportes/pt-br/assuntos/portal-da-estrategia/artigos-gestao-estrategica/como-implementar-a-matriz-raci" target="_blank">Matriz RACI</a> para organizar a gestão de elaboração do estudo, definindo assim os papéis e responsabilidades das partes envolvidas. A seguir, é apresentada a matriz de inicio do projeto:
