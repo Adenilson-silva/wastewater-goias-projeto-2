@@ -60,14 +60,14 @@ Durante as reuniões de planejamento entre os analistas ambientais e a empresa d
 | **Quando? (_When?_):** Qual o período está sendo analisado?   | Os dados utilizados neste projeto contemplarão o ano de 2021, ou seja, os últimos dados coletados de cada município.                                                  |
 
 **Objetivos**
-- Coletar e tratar dados relativos aos volumes de esgotos produzidos, coletados e tra-tados nos munícipios do estado de Goiás;
-- Descrever os dados coletados, a fim de averiguar possíveis comportamentos e/ou tendências entre o período de 1992 a 2021;
-- Prever comportamentos e/ou tendências futuras (para o período compreendido en-tre 2022 e 2032); e
-- Constatar se, por meio de modelos preditivos, é possível inferir se a atual ação do poder público no estado de Goiás garantirá ou não a melhoria dos serviços de coleta e tratamento na região.
+- Com base nos dados, desenvolver metodologia de priorização.
+- Desenvolver ferramenta que permita a consulta situacional e histórica de cada município.
 
 
 ## Tecnologias utilizadas
 - Python
+- PostgreSQL
+- PowerBI
 - Trello
 
 
