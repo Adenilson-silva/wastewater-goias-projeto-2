@@ -10,7 +10,7 @@ Os dados utilizados neste projeto são oficiais; no entanto, o cenário descrito
 Este projeto é uma ramificação do projeto desenvolvido <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/tree/main" target="_blank"> Aqui </a>.
 
 ## Contextualização
-Após a entrega dos resultados da <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/tree/main" target="_blank" target="_blank"> Análise Descritiva e Preditiva da Gestão de Esgotos em Goiás </a>, o governo decidiu que o estado proativamente destinaria recursos às prefeituras para melhoria dos sistemas de esgotamento sanitário dos municípios. Entretanto, o governo sabia que não seria possível destinar imediatamente recursos a todos os munícipios, pois isso dependeria do orçamento do estado. 
+Após a entrega dos <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/blob/main/E%20-%20Resultados.md" target="_blank">resultados da Análise Descritiva e Preditiva da Gestão de Esgotos em Goiás </a>, o governo decidiu que o estado proativamente destinaria recursos às prefeituras para melhoria dos sistemas de esgotamento sanitário dos municípios. Entretanto, o governo sabia que não seria possível destinar imediatamente recursos a todos os munícipios, pois isso dependeria do orçamento do estado. 
 
 Em busca de uma solução, o governador soliciou que a Secretaria de Meio Ambiente do Estado desenvolvesse uma metodologia que permitisse definir quais os munícipios teriam prioridade no recebimento desses recursos. Vale destacar que os recursos seriam distribuídos em dois lotes: o primeiro voltado para novas obras e o segundo destinado à melhoria da infraestrutura existente.
 
