@@ -95,7 +95,7 @@ Esta metodologia poderá ser revista conforme a secretaria julgue necessário.
 
 ### Ferramenta de consulta situacional e histórica de cada município
 
-Para que fosse possível atender o pedido de criação de ferramenta de consulta situacional e histórica de cada município, a secretaria solicitou que a empresa de consultoria desenvolver um painel. Nesse painel deveria conter o seguintes elementos:
+Para que fosse possível atender o pedido de criação de ferramenta de consulta situacional e histórica de cada município, a secretaria solicitou que a empresa de consultoria desenvolvesse um painel. Nesse painel deveria conter minimamente os seguintes elementos:
 
 - Gráficos que monstrassem a evolução histórica de cada município.
 - Informação acerca da taxa de tratamento e coleta de esgotos.
