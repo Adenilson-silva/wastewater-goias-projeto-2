@@ -33,7 +33,7 @@ Após definir as responsabilidades dos envolvidos, o secretario, juntamente com 
 | Etapa        | Descrição | Responsável | Prazo | Ações/Observações |
 |--------------|-----------|-------------|-------|-------------------|
 | **_Plan_**     | Planejamento e definição de metas e objetivos, além da definição da metodologia de priorização. | Analistas Ambientais | 25 dias | - |
-| **_Analyse_**       | Processo de ETL (_Extract, transform, load_) dos dados.  | Empresa de consultoria. | 25 dias | Durante esta etapa, poderá ser necessária a solicitação de esclarecimentos pela empresa de consultoria. |
+| **_Analyse_**       | Processo de ETL (<a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-2/blob/main/A%20-%20Extract.ipynb" target="_blank">_Extract_</a>, <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-2/blob/main/B%20-%20Transform.ipynb" target="_blank">_Transform_</a>, <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-2/blob/main/C%20-%20Load.ipynb" target="_blank">_Load_</a>) dos dados.  | Empresa de consultoria. | 25 dias | Durante esta etapa, poderá ser necessária a solicitação de esclarecimentos pela empresa de consultoria. |
 | **_Construct_**    |  <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/D%20-%20Cria%C3%A7%C3%A3o%20de%20Modelos%20de%20Machine%20Learning.ipynb" target="_blank"> Desenvolvimento de ferramenta que permita a consulta situacional e histórica de cada município</a>. | Empresa de consultoria. | 20 dias | - |
 | **_Execute_**      | <a href="https://github.com/Adenilson-silva/wastewater-goias/blob/main/E%20-%20Conclus%C3%A3o.md" target="_blank">Entrega dos resultados</a>. | Analistas ambientais e empresa de consultoria. | 10 dias | - |
 
