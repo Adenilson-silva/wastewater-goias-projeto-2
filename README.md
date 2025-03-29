@@ -114,7 +114,7 @@ Para que fosse possível atender o pedido de criação de ferramenta de consulta
 
 Este critério de classificação também poderá ser revisto conforme a secretaria julgue necessário.
 
-Além dos dados relativos à situação de cada munícipio, também deveria ser desenvolvido um painel para apresentação dos dados relativos à priorização do munícipios no que tange o recebimento de recursos.
+Além dos dados relativos à situação de cada munícipio, também deverá ser desenvolvido um painel para apresentação dos dados relativos à priorização do munícipios no que tange o recebimento de recursos.
 
 ## Tecnologias utilizadas
 - Python
