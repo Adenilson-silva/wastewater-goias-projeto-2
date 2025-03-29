@@ -93,7 +93,7 @@ O segundo critério de desempate, caso haja, será a menor relação entre o vol
 
 Esta metodologia poderá ser revista conforme a secretaria julgue necessário.
 
-### Ferramenta que permitisse a consulta situacional e histórica de cada município
+### Ferramenta de consulta situacional e histórica de cada município
 
 Para que fosse possível atender o pedido de criação de ferramenta de consulta situacional e histórica de cada município, a secretaria solicitou que a empresa de consultoria desenvolver um painel. Nesse painel deveria conter o seguintes elementos:
 
