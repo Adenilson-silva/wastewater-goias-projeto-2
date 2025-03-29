@@ -104,13 +104,39 @@ Para que fosse possível atender o pedido de criação de ferramenta de consulta
 
    Onde:
 
-| Classificação  | Condição de CD                                     | Número de Habitantes                     |
-|---------------|--------------------------------------------------|-----------------------------------------|
-| **Ruim**      | Menor que 0.25                                   | Maior que 0                             |
-| **Regular**   | Entre 0.25 e 0.5                                 | Maior que 0                             |
-| **Bom**       | Entre 0.5 e 0.75                                 | Maior que 0                             |
-| **Ótimo**     | Igual ou maior que 0.75                         | Maior que 0                             |
-| **Indefinido**| -                                               | Igual a 0 (município ainda não criado) |
+<table align="center">
+  <tr>
+    <th style="text-align:center;">Classificação</th>
+    <th style="text-align:center;">Condição de CD</th>
+    <th style="text-align:center;">Número de Habitantes</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>Ruim</b></td>
+    <td style="text-align:center;">Menor que 0.25</td>
+    <td style="text-align:center;">Maior que 0</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>Regular</b></td>
+    <td style="text-align:center;">Entre 0.25 e 0.5</td>
+    <td style="text-align:center;">Maior que 0</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>Bom</b></td>
+    <td style="text-align:center;">Entre 0.5 e 0.75</td>
+    <td style="text-align:center;">Maior que 0</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>Ótimo</b></td>
+    <td style="text-align:center;">Igual ou maior que 0.75</td>
+    <td style="text-align:center;">Maior que 0</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><b>Indefinido</b></td>
+    <td style="text-align:center;">-</td>
+    <td style="text-align:center;">Igual a 0 (município ainda não criado)</td>
+  </tr>
+</table>
+
 
 Este critério de classificação também poderá ser revisto conforme a secretaria julgue necessário.
 
