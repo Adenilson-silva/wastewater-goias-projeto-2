@@ -64,6 +64,58 @@ Durante as reuniões de planejamento entre os analistas ambientais e a empresa d
 - Desenvolver ferramenta que permita a consulta situacional e histórica de cada município.
 
 
+### Metodologia de Priorização
+
+Após intenso debate, a secretaria desenvolveu a seguinte metodologia para definir quais os municípios teriam prioridade no recebimento de recursos:
+
+* **Para novas obras**
+
+Com base no ano de 2021, os municípios com a menor relação entre o volume de esgotos tratado e o volume de esgotos coletado (RTC) terão maior prioridade.
+<p align="center"><b>RTC = volume tratado / volume produzido</b></p>
+
+O primeiro critério de desempate, caso haja, será a menor relação entre o volume de esgotos coletado e o volume de esgotos produzido (RCP).
+<p align="center"><b>RCP = volume coletado / volume produzido</b></p>
+
+O segundo critério de desempate, caso haja, será a menor relação entre o volume de esgotos tratado e o volume de esgotos produzido (RTP).
+<p align="center"><b>RTP = volume tratado / volume produzido</b></p>
+
+
+* **Para melhoria da infraestrutura**
+
+Com base no ano de 2021, os municípios com a menor relação entre o volume de esgotos coletados e o volume de esgotos produzidos (RCP) terão maior prioridade.
+<p align="center"><b>RCP = volume coletado / volume produzido</b></p>
+
+O primeiro critério de desempate, caso haja, será a menor relação entre o volume de esgotos tratado e o volume de esgotos produzido (RTP).
+<p align="center"><b>RTP = volume tratado / volume produzido</b></p>
+
+O segundo critério de desempate, caso haja, será a menor relação entre o volume de esgotos tratado e o volume de esgotos coletado (RTC).
+<p align="center"><b>RTC = volume tratado / volume produzido</b></p>
+
+Esta metodologia poderá ser revista conforme a secretaria julgue necessário.
+
+### Ferramenta que permitisse a consulta situacional e histórica de cada município
+
+Para que fosse possível atender o pedido de criação de ferramenta de consulta situacional e histórica de cada município, a secretaria solicitou que a empresa de consultoria desenvolver um painel. Nesse painel deveria conter o seguintes elementos:
+
+- Gráficos que monstrassem a evolução histórica de cada município.
+- Informação acerca da taxa de tratamento e coleta de esgotos.
+- Classificação do desempenho anual de cada município, considerando o cálculo do coeficiente de desempenho (CD).
+   <p align="center"><b>CD = ((3*RTP) + (2*RTC) + (RCP)) / 6</b></p>
+
+   Onde:
+
+| Classificação  | Condição de CD                                     | Número de Habitantes                     |
+|---------------|--------------------------------------------------|-----------------------------------------|
+| **Ruim**      | Menor que 0.25                                   | Maior que 0                             |
+| **Regular**   | Entre 0.25 e 0.5                                 | Maior que 0                             |
+| **Bom**       | Entre 0.5 e 0.75                                 | Maior que 0                             |
+| **Ótimo**     | Igual ou maior que 0.75                         | Maior que 0                             |
+| **Indefinido**| -                                               | Igual a 0 (município ainda não criado) |
+
+Este critério de classificação também poderá ser revisto conforme a secretaria julgue necessário.
+
+Além dos dados relativos à situação de cada munícipio, também deveria ser desenvolvido um painel para apresentação dos dados relativos à priorização do munícipios no que tange o recebimento de recursos.
+
 ## Tecnologias utilizadas
 - Python
 - PostgreSQL
