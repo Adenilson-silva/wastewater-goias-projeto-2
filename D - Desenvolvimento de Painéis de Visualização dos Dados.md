@@ -47,6 +47,7 @@ select
 	vae.relacao_tratado_coletado,
 	vae.relacao_tratado_produzido,
 	vae.ano_referencia,
+	vae.possui_dado_interpolado,
 	case
 		when d.desempenho between 0 and 0.25 and vae.populacao_total_urbana > 0 then 'Ruim'
 		when d.desempenho between 0.25 and 0.5 and vae.populacao_total_urbana > 0 then 'Regular'
