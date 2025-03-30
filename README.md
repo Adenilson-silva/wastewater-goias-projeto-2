@@ -7,7 +7,7 @@
 ## Sobre este Projeto 
 Os dados utilizados neste projeto são oficiais; no entanto, o cenário descrito na contextualização é fictício.
 
-Este projeto é uma ramificação do projeto desenvolvido <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/tree/main" target="_blank"> Aqui </a>.
+Este projeto é uma ramificação do projeto desenvolvido <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/tree/main" target="_blank"> aqui </a>.
 
 ## Contextualização
 Após a entrega dos <a href="https://github.com/Adenilson-silva/wastewater-goias-projeto-1/blob/main/E%20-%20Resultados.md" target="_blank">resultados da Análise Descritiva e Preditiva da Gestão de Esgotos em Goiás </a>, o governo decidiu que o estado proativamente destinaria recursos às prefeituras para melhoria dos sistemas de esgotamento sanitário dos municípios. Entretanto, o governo sabia que não seria possível destinar imediatamente recursos a todos os munícipios, pois isso dependeria do orçamento do estado. 
