@@ -127,9 +127,9 @@ Foram desenvolvido dois painéis:
 
 * 6 - Posição de prioridade do Município (2) filtrado para recebimento de recursos do governo estadual para novas obras, com base na metodologia desenvolvida pela Secretaria Estadual de Meio Ambiente;
 
-* 7 - Gráfico de eficiência (%) dos serviços de tratamento de esgotos do Município (2) filtrado em função do tempo (1992 a 2021);
+* 7 - Gráfico de eficiência (%) dos serviços de tratamento de esgotos do Município (2), em função do tempo (1992 a 2021);
 
-* 8 - Gráfico de volume de esgotos produzidos, coletados e tratados do Município (2) filtrado em função do tempo (1992 a 2021);
+* 8 - Gráfico de volume de esgotos produzidos, coletados e tratados do Município (2), em função do tempo (1992 a 2021);
 
  
 **Painel II:**
