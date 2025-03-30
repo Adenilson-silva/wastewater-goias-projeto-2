@@ -12,7 +12,7 @@ Para a elaboração dos painéis, a empresa de consultoria decidiu utilizá-los 
 ### Modelo Entidade Relacionamento - MER
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1gTY4Xz6ay8UijzIZ00yZu7FwOiwmcuY2" width="800">
+  <img src="https://drive.google.com/uc?export=view&id=1nPYlpvguwwpdgGJYLUxSyF6reZRWsKNx" width="800">
 </div>
 
 ### _Script_ criação das _views_
