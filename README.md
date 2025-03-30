@@ -79,6 +79,8 @@ O primeiro critério de desempate, caso haja, será a menor relação entre o vo
 O segundo critério de desempate, caso haja, será a menor relação entre o volume de esgotos tratado e o volume de esgotos produzido (RTP).
 <p align="center"><b>RTP = volume tratado / volume produzido</b></p>
 
+O terceiro critério de desempate, caso haja, será o maior número de habitantes.
+
 
 * **Para melhoria da infraestrutura**
 
@@ -90,6 +92,8 @@ O primeiro critério de desempate, caso haja, será a menor relação entre o vo
 
 O segundo critério de desempate, caso haja, será a menor relação entre o volume de esgotos tratado e o volume de esgotos coletado (RTC).
 <p align="center"><b>RTC = volume tratado / volume produzido</b></p>
+
+O terceiro critério de desempate, caso haja, será o maior número de habitantes.
 
 Esta metodologia poderá ser revista conforme a secretaria julgue necessário.
 
