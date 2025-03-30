@@ -115,9 +115,9 @@ Foram desenvolvido dois painéis:
   <img src="https://drive.google.com/uc?export=view&id=1cQYE1HO1blWQq_mvFcpQZCnl8iKecwBr" width="1000">
 </div>
 
-* 1 - Filtro do Ano;
+* 1 - Filtro de Ano;
 
-* 2 - Filtro do Minicípio;
+* 2 - Filtro de Minicípio;
 
 * 3 - Número de Habitantes referente ao Município (2) ao Ano (1) filtrados;
 
@@ -137,7 +137,7 @@ Foram desenvolvido dois painéis:
   <img src="https://drive.google.com/uc?export=view&id=1KPnviK14IXHb0D7GHq2PGyDdOVUyMNkH" width="1000">
 </div>
 
-* 9 - Filtro do Ano;
+* 9 - Filtro de Ano;
 
 * 10 - Gráfico quantificando quantos Munícipios do estado se enquandrou em cada categoria de desempenho com base no Ano (9) filtrado e na metodologia desenvolvida pela Secretaria Estaudal de Meio Ambiente;
 
