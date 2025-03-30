@@ -102,3 +102,4 @@ inner join municipio mun on
 inner join ano_base ab on
 	vae.ano_referencia = ab.ano;
 ```
+https://app.powerbi.com/view?r=eyJrIjoiMGM1ZmFkNjgtOGU5Yy00YTdlLWJlOTYtYmI2OTg2YmNlOTkyIiwidCI6ImQ4YmRlNjVhLTNkZWQtNDM0Ni05NTE4LTY3MDIwNGU2ZTE4NCIsImMiOjR9
