@@ -2,7 +2,7 @@
 
 ### ADENILSON SILVA
 
- "Para controle do fluxo de atividades do projeto, a consultoria utilizou o trello. O painel criado [aqui](https://trello.com/b/RIgkWLxE/projeto-uso-de-dados-para-otimizar-a-aloca%C3%A7%C3%A3o-de-recursos-p%C3%BAblicos-destinados-ao-saneamento-b%C3%A1sico-de-goi%C3%A1s)."
+ Para controle do fluxo de atividades do projeto, a consultoria utilizou o trello. O painel criado [aqui](https://trello.com/b/RIgkWLxE/projeto-uso-de-dados-para-otimizar-a-aloca%C3%A7%C3%A3o-de-recursos-p%C3%BAblicos-destinados-ao-saneamento-b%C3%A1sico-de-goi%C3%A1s).
  
 ## DESENVOLVIMENO DE PAINÉIS DE VISUALIZAÇÃO DOS DADOS
 
