@@ -2,8 +2,8 @@
 
 ### ADENILSON SILVA
 
-Para controle do fluxo de atividades do projeto, a consultoria utilizou o trello. O painel criado está disponível em:
-
+ "Para controle do fluxo de atividades do projeto, a consultoria utilizou o trello. O painel criado [aqui](https://trello.com/b/RIgkWLxE/projeto-uso-de-dados-para-otimizar-a-aloca%C3%A7%C3%A3o-de-recursos-p%C3%BAblicos-destinados-ao-saneamento-b%C3%A1sico-de-goi%C3%A1s)."
+ 
 ## DESENVOLVIMENO DE PAINÉIS DE VISUALIZAÇÃO DOS DADOS
 
 Para a elaboração dos painéis, a empresa de consultoria decidiu utilizá-los no Power BI.  Os dados serão extraídos diretamente do banco de dados _PostgreSQL_ por meio de três  [_views_](https://www.postgresql.org/docs/current/sql-createview.html).
