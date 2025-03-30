@@ -129,7 +129,7 @@ Foram desenvolvido dois painéis:
 
 * 7 - Gráfico de eficiência (%) dos serviços de tratamento de esgotos do Município (2), em função do tempo (1992 a 2021);
 
-* 8 - Gráfico de volume de esgotos produzidos, coletados e tratados do Município (2), em função do tempo (1992 a 2021);
+* 8 - Gráfico de volume de esgotos produzidos, coletados e tratados do Município (2), em função do tempo (1992 a 2021).
 
  
 **Painel II:**
@@ -147,7 +147,7 @@ Foram desenvolvido dois painéis:
   
 * 13  - Lista de Municípios, e da sua respectiva posição de prioridade, que receberão recursos para obras de melhorias, com base no filtro (11);  
 
-* 14 - Lista de Municípios, e da sua respectiva posição de prioridade, que receberão recursos para novas obras, com base no filtro (12);  
+* 14 - Lista de Municípios, e da sua respectiva posição de prioridade, que receberão recursos para novas obras, com base no filtro (12).  
 
 https://app.powerbi.com/view?r=eyJrIjoiMGM1ZmFkNjgtOGU5Yy00YTdlLWJlOTYtYmI2OTg2YmNlOTkyIiwidCI6ImQ4YmRlNjVhLTNkZWQtNDM0Ni05NTE4LTY3MDIwNGU2ZTE4NCIsImMiOjR9
 
