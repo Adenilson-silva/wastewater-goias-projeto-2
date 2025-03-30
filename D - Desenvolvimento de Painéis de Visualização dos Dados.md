@@ -23,7 +23,7 @@ with parametros as (
 select
 	3 as rtp, -- peso da relação tratado/produzido
 	2 as rtc, -- peso da relação tratado/coletado
-	1 as rcp -- peso da relação tratado/coletado
+	1 as rcp -- peso da relação coletado/produzido
 ),
 desempenho_calc as (
 select
