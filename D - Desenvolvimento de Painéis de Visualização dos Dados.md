@@ -73,7 +73,8 @@ select
 	row_number() over (
 	order by vae.relacao_coletado_produzido,
 	vae.relacao_tratado_produzido,
-	vae.relacao_tratado_coletado asc) posicao,
+	vae.relacao_tratado_coletado asc,
+        vae.populacao_total_urbana desc) posicao,
 	mun.nome,
 	mun.codigo_ibge
 from
@@ -93,7 +94,8 @@ select
 	row_number() over (
 	order by vae.relacao_tratado_coletado,
 	vae.relacao_coletado_produzido,
-	vae.relacao_tratado_produzido asc) posicao,
+	vae.relacao_tratado_produzido asc,
+	vae.populacao_total_urbana desc) posicao,
 	mun.nome,
 	mun.codigo_ibge
 from
