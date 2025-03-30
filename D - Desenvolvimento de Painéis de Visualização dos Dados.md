@@ -111,9 +111,43 @@ Feito isso, o _Power BI_ foi conectado ao banco de dados _PosgreSQL_ para a impo
 Foram desenvolvido dois painéis:
 
 **Painel I:**
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1cQYE1HO1blWQq_mvFcpQZCnl8iKecwBr" width="1000">
+</div>
+
+* 1 - Filtro do Ano;
+
+* 2 - Filtro do Minicípio;
+
+* 3 - Número de Habitantes referente ao Município (2) ao Ano (1) filtrados;
+
+* 4 - Desempenho dos serviços de tratamento de esgotos referente ao Município (2) ao Ano (1) filtrados, e com base na metodologia desenvolvida pela Secretaria Estadual de Meio Ambiente;
+
+* 5 - Posição de prioridade do Município (2) filtrado para recebimento de recursos do governo estadual para obras de melhorias dos serviços públicos de saneamento atuais, e com base na metodologia desenvolvida pela Secretaria Estadual de Meio Ambiente;
+
+* 6 - Posição de prioridade do Município (2) filtrado para recebimento de recursos do governo estadual para novas obras, com base na metodologia desenvolvida pela Secretaria Estadual de Meio Ambiente;
+
+* 7 - Gráfico de eficiência (%) dos serviços de tratamento de esgotos do Município (2) filtrado em função do tempo (1992 a 2021);
+
+* 8 - Gráfico de volume de esgotos produzidos, coletados e tratados do Município (2) filtrado em função do tempo (1992 a 2021);
 
  
 **Painel II:**
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1KPnviK14IXHb0D7GHq2PGyDdOVUyMNkH" width="1000">
+</div>
+
+* 9 - Filtro do Ano;
+
+* 10 - Gráfico quantificando quantos Munícipios do estado se enquandrou em cada categoria de desempenho com base no Ano (9) filtrado e na metodologia desenvolvida pela Secretaria Estaudal de Meio Ambiente;
+
+* 11 - Filtro de faixa de posição dos Munícipios que receberão recursos para obras de melhorias;
+  
+* 12 - Filtro de faixa de posição dos Munícipios que receberão recursos para novas obras;
+  
+* 13  - Lista de Municípios, e da sua respectiva posição de prioridade, que receberão recursos para obras de melhorias, com base no filtro (11);  
+
+* 14 - Lista de Municípios, e da sua respectiva posição de prioridade, que receberão recursos para novas obras, com base no filtro (12);  
 
 https://app.powerbi.com/view?r=eyJrIjoiMGM1ZmFkNjgtOGU5Yy00YTdlLWJlOTYtYmI2OTg2YmNlOTkyIiwidCI6ImQ4YmRlNjVhLTNkZWQtNDM0Ni05NTE4LTY3MDIwNGU2ZTE4NCIsImMiOjR9
 
