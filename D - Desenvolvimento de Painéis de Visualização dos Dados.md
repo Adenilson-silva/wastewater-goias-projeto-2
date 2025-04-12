@@ -149,6 +149,4 @@ Foram desenvolvido dois painéis:
 
 * 14 - Lista de Municípios, e da sua respectiva posição de prioridade, que receberão recursos para novas obras, com base no filtro (12).  
 
-https://app.powerbi.com/view?r=eyJrIjoiMGM1ZmFkNjgtOGU5Yy00YTdlLWJlOTYtYmI2OTg2YmNlOTkyIiwidCI6ImQ4YmRlNjVhLTNkZWQtNDM0Ni05NTE4LTY3MDIwNGU2ZTE4NCIsImMiOjR9
-
 
